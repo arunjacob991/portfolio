@@ -1,0 +1,24 @@
+[33mcommit 6e317752f192212ce8d347a5c8dd106b47b8e3cd[m[33m ([m[1;36mHEAD -> [m[1;32mchild[m[33m, [m[1;31morigin/child[m[33m)[m
+Merge: f300ecd a611648
+Author: Arun Jacob <arunjacob991@gmail.com>
+Date:   Wed Oct 23 11:06:02 2024 +0530
+
+    New Commit
+
+[33mcommit f300ecda296c02377e4c39b148cf00940ccea61e[m
+Author: Arun Jacob <arunjacob991@gmail.com>
+Date:   Fri Aug 30 16:26:03 2024 +0530
+
+    First commit
+
+[33mcommit a611648ae0ced7936313038d8977767038161b2c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Arun Jacob <arunjacob991@gmail.com>
+Date:   Thu Aug 17 09:29:42 2023 +0530
+
+    test commit
+
+[33mcommit af1e52f77fa706821022fb733040eff4a7587116[m
+Author: Arun Jacob <arunjacob991@gmail.com>
+Date:   Thu Aug 17 09:28:10 2023 +0530
+
+    First commit
